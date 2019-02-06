@@ -17,3 +17,4 @@ public class Mover : MonoBehaviour
 
 
 }
+// Attach this script to the Shot Prefab
